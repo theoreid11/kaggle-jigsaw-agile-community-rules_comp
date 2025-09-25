@@ -1,7 +1,7 @@
 
 ## Competition Description 
 
-# Reddit Rule Violation Classification 
+Reddit Rule Violation Classification 
 # Overview
 
 If you’ve ever had a comment taken down on Reddit and wondered “why?”, you’re not alone.
