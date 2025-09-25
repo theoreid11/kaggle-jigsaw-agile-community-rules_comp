@@ -1,8 +1,8 @@
 
-## Competition Description 
+# Competition Description 
 
-Reddit Rule Violation Classification 
-# Overview
+## Reddit Rule Violation Classification 
+### Overview
 
 If you’ve ever had a comment taken down on Reddit and wondered “why?”, you’re not alone.
 Each subreddit has its own guidelines, and understanding moderation decisions can feel chaotic.
@@ -11,7 +11,7 @@ In this competition, the goal is to build a binary classifier that predicts whet
 
 This project aims to bring some “comment sense” by training models that can identify potential rule violations and support moderation tasks in real-world communities.
 
-# Competition Details
+### Competition Details
 
 Host: Kaggle
 
